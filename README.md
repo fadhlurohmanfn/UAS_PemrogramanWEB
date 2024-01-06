@@ -1,49 +1,56 @@
-# Project_UAS
+# Project UAS
 
-| NAMA  :| HIDAYAT TULLOH |
-| --- | --- |
-| NIM   :| 312110110 |
-| KELAS :| TI.21.B1 |
-| DOSEN :| Agung Nugroho,S.Kom.,M.Kom |
+'''
+| NAMA  : Fadhlurohman Fatikh N / Muhammad Farhan F
+| NIM   : 312210368 / 312210380
+| KELAS : TI.22.A4
+| DOSEN : Agung Nugroho,S.Kom.,M.Kom
+'''
 
 <Hr>
 
-# Tugas Project Ujian Akhir Semester
+# Tugas Project Pemrograman Web
 
 **Membuat  Checklist Kebersihan Toilet**<br>
 
-|username :| admin  |
-| --- | --- |
-|password : | admin |
-|link Web HOSTING DEMO : | https://checklisttoilet.000webhostapp.com/login.php |
-|link youtube : | https://youtu.be/AXICRxo5m8U |
-| link drive pdf laporan : | https://drive.google.com/file/d/1KXrxbji6thtQteoFJ79NRTFBmTkLJT7i/view?usp=sharing |
-
+username : admin
+password : admin
+link Web HOSTING DEMO : https://uaschecklist.000webhostapp.com
+link youtube : https://youtu.be/nHGioxsfgLA
+link drive pdf laporan : https://drive.google.com/file/d/1-G5p-VDDpm8_xLAa47bw5AYd0A7MFTNo/view?usp=drivesdk
 
 
 
 Screnshoot tampilan di web
 
 Tampilan Login
-![gambar1](SS/SS3.png)
+
+![gambar1](SS/1.png)
 
 Tampilan Menu
-![gambar2](SS/SS4.png)
+
+![gambar2](SS/2.png)
 
 Tampilan Checklist Toilet
-![gambar2](SS/SS5.png)
+
+![gambar2](SS/3.png)
 
 Tampilan Ubah Data
-![gambar2](SS/SS6.png)
+
+![gambar2](SS/4.png)
 
 Tampilan Tambah Data
-![gambar2](SS/SS7.png)
+
+![gambar2](SS/5.png)
 
 Tampilan Data Toilet
-![gambar2](SS/SS8.png)
+
+![gambar2](SS/6.png)
 
 Tampilan Tambah Data Toilet
-![gambar2](SS/SS9.png)
 
-Terima Kasih 
-semoga Hasilnya memuaskan
+![gambar2](SS/7.png)
+
+Tampilan Tambah Akun
+
+![gambar2](SS/8.png)
